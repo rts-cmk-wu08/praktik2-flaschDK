@@ -1,4 +1,4 @@
-import {useLoaderData} from 'react-router-dom'
+import {useLoaderData, Outlet} from 'react-router-dom'
 const PropertyList = () => {
     const homeData = useLoaderData().result
     return ( 
@@ -7,6 +7,7 @@ const PropertyList = () => {
         <ul>
             <li>{homeData.description}</li>
         </ul>
+<Outlet/>
         </>
      );
 }
