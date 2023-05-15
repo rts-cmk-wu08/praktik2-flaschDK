@@ -5,6 +5,8 @@ import {
   createBrowserRouter,
   createRoutesFromElements,
 } from "react-router-dom";
+import { ThemeProvider } from "styled-components";
+import theme from "./util/theme";
 import Home from "./pages/Home";
 import Agents from "./pages/Agents"
 import AgentDetails from "./pages/AgentDetails";
@@ -52,10 +54,12 @@ function App() {
 
   return (
     <>
-      <Header />
+    <ThemeProvider theme={theme}>
+    <Header />
       <UserContext.Provider value={{ user, setUser }}>
         <RouterProvider router={router} />
       </UserContext.Provider>
+    </ThemeProvider>
     </>
   );
 }

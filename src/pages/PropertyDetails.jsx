@@ -1,7 +1,9 @@
+import { Outlet } from "react-router-dom";
 const PropertyDetails = () => {
     return ( 
         <>
-        Gad vide hvem der bor her?
+        <p>Gad vide hvem der bor her?</p> 
+        <Outlet/>
         </>
      );
 }
