@@ -3,7 +3,7 @@ const PropertyList = () => {
     const homeData = useLoaderData().result
     return ( 
         <>
-        Det er et dejligt hus med mange værelser og en fin have.
+        Det er nogle dejligt huse med mange værelser og en fin have.
         <ul>
             <li>{homeData.description}</li>
         </ul>
