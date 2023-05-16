@@ -20,9 +20,10 @@ import Floorplan from "./pages/Floorplan";
 import Map from "./pages/Map";
 import "./App.css";
 import Header from "./components/Header";
-import { getAllHomes, getHomeDetails } from "./util/api";
+import { getAllHomes, getSomeHomes, getHomeDetails, getHomesCount, getAllAgents, getAgentDetails } from "./util/api";
 
 export const UserContext = createContext({});
+const homesCount = await getHomesCount()
 
 function App() {
   const [user, setUser] = useState("guest");
@@ -30,12 +31,14 @@ function App() {
   const router = createBrowserRouter(
     createRoutesFromElements(
       <>
-        <Route path="/" element={<Home />} loader={getAllHomes} />
-        <Route path="/agents" element={<Agents />} />
-        <Route path="/agentdetails/:id" element={<AgentDetails />} />
+        <Route path="/" element={<Home />} loader={getSomeHomes} />
+        <Route path="/agents" element={<Agents />} loader={getAllAgents}/>
+        <Route path="/agentdetails/:id" element={<AgentDetails />} loader={({ params }) => {
+            return getAgentDetails(params.id);
+          }}/>
         <Route path="/contact" element={<Contact />} />
         <Route path="/favorites" element={<Favorites />} />
-        <Route path="/propertylist" element={<PropertyList />} />
+        <Route path="/propertylist" element={<PropertyList />} loader={getAllHomes}/>
         <Route
           path="/propertydetails/:id"
           element={<PropertyDetails />}
@@ -56,7 +59,7 @@ function App() {
     <>
     <ThemeProvider theme={theme}>
     <Header />
-      <UserContext.Provider value={{ user, setUser }}>
+      <UserContext.Provider value={{ user, setUser, homesCount }}>
         <RouterProvider router={router} />
       </UserContext.Provider>
     </ThemeProvider>
