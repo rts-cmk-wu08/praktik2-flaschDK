@@ -3,7 +3,7 @@ import { useContext, useEffect } from 'react'
 import {UserContext} from '../App'
 import {HomeStyle} from '../components/styled/Home.styled'
 const Home = () => {
-    const homes = useLoaderData().result
+    const homes = useLoaderData()
     console.log(homes)
 
             const user = useContext(UserContext).user;
