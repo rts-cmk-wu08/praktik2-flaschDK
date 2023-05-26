@@ -20,6 +20,9 @@ import Floorplan from "./pages/Floorplan";
 import Map from "./pages/Map";
 import "./App.css";
 import Header from "./components/Header";
+import Footer from "./components/Footer"
+import InitUser from "./components/InitUser";
+
 import { getAllHomes, getSomeHomes, getHomeDetails, getHomesCount, getAllAgents, getAgentDetails } from "./util/api";
 
 export const UserContext = createContext({});
@@ -27,6 +30,7 @@ const homesCount = await getHomesCount()
 
 function App() {
   const [user, setUser] = useState("guest");
+  const [favList, setFavList] = useState([])
 
   const router = createBrowserRouter(
     createRoutesFromElements(
@@ -58,9 +62,11 @@ function App() {
   return (
     <>
     <ThemeProvider theme={theme}>
-    <Header />
-      <UserContext.Provider value={{ user, setUser, homesCount }}>
+      <UserContext.Provider value={{ user, setUser, homesCount, favList, setFavList }}>
+      <InitUser/>
+      <Header />
         <RouterProvider router={router} />
+        <Footer />
       </UserContext.Provider>
     </ThemeProvider>
     </>

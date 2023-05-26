@@ -6,14 +6,11 @@ import {getSomeAgents} from '../util/api'
 
 let agents = await getSomeAgents()
 
+
 const Home = () => {
     const homes = useLoaderData()
+    const homesCount = useContext(UserContext).homesCount
     console.log(homes)
-
-            const user = useContext(UserContext).user;
-            const homesCount = useContext(UserContext).homesCount
-             const {setUser} = useContext(UserContext)
-             useEffect(() => setUser("partycrasher"),[])
     
     return ( 
         <>
@@ -25,6 +22,7 @@ const Home = () => {
         <ul>
         {agents.map((agent) => <li key={agent.id}><Link to={"/agentdetails/"+agent.id}>{agent.id}</Link>  </li>)}
         </ul>
+        {homes.map((home) => <img key={home.id} src={home.images[0].url}/> )}
         </HomeStyle>
         </>
      );
