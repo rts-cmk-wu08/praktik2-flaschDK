@@ -1,11 +1,24 @@
 import {useLoaderData, Outlet} from 'react-router-dom'
 const PropertyList = () => {
-    const homeData = useLoaderData().result
+    const homeData = useLoaderData()
     return ( 
         <>
-        Det er nogle dejligt huse med mange værelser og en fin have.
+        <h1>Boliger til salg</h1>
         <ul>
-            <li>{homeData.description}</li>
+            {homeData.map((home) => 
+                <article key={home.id}>
+     <img src={home.images[0].url}/>
+     <p>{home.adress1}</p>
+     <p>{home.city}</p>
+     <p>{home.type}</p>
+     <p>{home.netto}</p>
+     <p>{home.energylabel}</p>
+     <p>{home.rooms}</p>
+     <p>{home.livingspace}</p>
+     <p>{home.price}</p>
+     </article>
+            )}
+            
         </ul>
 <Outlet/>
         </>
