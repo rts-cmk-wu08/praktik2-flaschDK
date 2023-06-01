@@ -1,0 +1,2544 @@
+[
+  {
+    "energylabel": "A",
+    "type": "Villa",
+    "images": [
+      {
+        "name": "haraldsborgv.jpg",
+        "size": 131.11,
+        "width": 1400,
+        "height": 934,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028623/dinmaegler/haraldsborgv_e4b19d9f04.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_haraldsborgv.jpg",
+            "hash": "thumbnail_haraldsborgv_e4b19d9f04",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 37.8,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028624/dinmaegler/thumbnail_haraldsborgv_e4b19d9f04.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_haraldsborgv_e4b19d9f04",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61654c51399ec40016a96722"
+      },
+      {
+        "name": "int_gr_b2.jpg",
+        "size": 100.86,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_b2_2c8853508c.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b2.jpg",
+            "hash": "thumbnail_int_gr_b2_2c8853508c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 22.88,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b2_2c8853508c.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b2_2c8853508c",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d9"
+      },
+      {
+        "name": "int_gr_b1.jpg",
+        "size": 92.41,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_b1_ec4052e4a9.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b1.jpg",
+            "hash": "thumbnail_int_gr_b1_ec4052e4a9",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 30.72,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b1_ec4052e4a9.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b1_ec4052e4a9",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6b8ea2ae0016b6c4dc"
+      },
+      {
+        "name": "int_gr_b3.jpg",
+        "size": 112.65,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_b3_4bdac29737.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b3.jpg",
+            "hash": "thumbnail_int_gr_b3_4bdac29737",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 25.17,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b3_4bdac29737.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b3_4bdac29737",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6b8ea2ae0016b6c4dd"
+      }
+    ],
+    "gross": 8965,
+    "payment": 500000,
+    "price": 4567890,
+    "city": "Roskilde",
+    "cost": 3865,
+    "basementsize": 0,
+    "lotsize": 760,
+    "netto": 6876,
+    "postalcode": 4000,
+    "adress1": "Haraldsborgvej 143 ",
+    "description": "Velbeliggende villa centralt i Roskilde. Villaen er bygget i 1976 med pudset facade og har nyere, sort tag.\nDer er i 2006 foretaget en facaderenovering med detaljer i lærketræ. I 2011 blev det originale tag udskiftet og i den forbindelse etableredes solfangere og taget blev efterisoleret med 200 mm træfiberisolering. Solfangerne forsyner huset med varmt vand fra maj til august afhængig af vejrliget, hvor fjernvarmen således ikke anvendes.\nVillaen opvarmes via fjernvarme, og i udestuen står en brændeovn, som kan supplere opvarmningen.\n\nStueplan indeholder: Entré, toilet med brus, køkken-alrum med klinker og mange muligheder, nyt køkken med nye elementer og hvidevarer fra 2021, 3 pæne værelser, bryggers og et stort værksted. Yderligere en udestue på 19 kvm og et udhus på 9 kvm.\nDer er gulvvarme i køkken-alrum, toilet og i ét af værelserne.\nPå 1. sal er der en stor stue med udgang til altan direkte mod vest. Yderligere er der et stort soveværelse med egen udvendig indgang samt indgang til eget badeværelse, og et kontor.",
+    "livingspace": 166,
+    "agent": {
+      "name": "Peter Sørensen",
+      "title": "Ejendomsmælger, MDMS",
+      "phone": "+45 7070 4012",
+      "email": "peter@dinmaegler.com",
+      "image": {
+        "name": "peter.jpg",
+        "size": 188.37,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026106/dinmaegler/peter_360fd3be30.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_peter.jpg",
+            "hash": "thumbnail_peter_360fd3be30",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 53.11,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026109/dinmaegler/thumbnail_peter_360fd3be30.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_peter_360fd3be30",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165427e51869f2fac96e03e"
+      },
+      "id": "6163fc0e2d07e63c24647d0c"
+    },
+    "rooms": "5/4",
+    "built": 1976,
+    "remodel": 1999,
+    "floorplan": {
+      "name": "plantegning_b.jpg",
+      "size": 73.6,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027096/dinmaegler/plantegning_b_648a3fb198.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_b.jpg",
+          "hash": "thumbnail_plantegning_b_648a3fb198",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 405,
+          "size": 45.36,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027098/dinmaegler/thumbnail_plantegning_b_648a3fb198.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_b_648a3fb198",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 1000,
+      "height": 810,
+      "id": "6165465a2e92823f5c6a5769"
+    },
+    "lat": 55.64999196690576,
+    "long": 12.08908496168347,
+    "users": [],
+    "id": "61572ad4251a8a42ec8cb544"
+  },
+  {
+    "energylabel": "A",
+    "type": "Villa",
+    "images": [
+      {
+        "name": "norensvejen.jpg",
+        "size": 147.08,
+        "width": 1400,
+        "height": 934,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028929/dinmaegler/norensvejen_53e77b3964.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_norensvejen.jpg",
+            "hash": "thumbnail_norensvejen_53e77b3964",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 26.29,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028931/dinmaegler/thumbnail_norensvejen_53e77b3964.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_norensvejen_53e77b3964",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61654d83399ec40016a96728"
+      },
+      {
+        "name": "int_gr_f2.jpg",
+        "size": 94.71,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037356/dinmaegler/int_gr_f2_c910195bb5.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_f2.jpg",
+            "hash": "thumbnail_int_gr_f2_c910195bb5",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 30.97,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037358/dinmaegler/thumbnail_int_gr_f2_c910195bb5.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_f2_c910195bb5",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6e8ea2ae0016b6c4e7"
+      },
+      {
+        "name": "int_gr_f3.jpg",
+        "size": 118.45,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037356/dinmaegler/int_gr_f3_6b6947fc99.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_f3.jpg",
+            "hash": "thumbnail_int_gr_f3_6b6947fc99",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 26.6,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_f3_6b6947fc99.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_f3_6b6947fc99",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6e8ea2ae0016b6c4e6"
+      },
+      {
+        "name": "int_gr_f1.jpg",
+        "size": 82.2,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037358/dinmaegler/int_gr_f1_cbb62efe66.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_f1.jpg",
+            "hash": "thumbnail_int_gr_f1_cbb62efe66",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 30.09,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037359/dinmaegler/thumbnail_int_gr_f1_cbb62efe66.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_f1_cbb62efe66",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e708ea2ae0016b6c4e9"
+      }
+    ],
+    "gross": 6980,
+    "payment": 230000,
+    "price": 2456320,
+    "city": "Roskilde",
+    "cost": 3789,
+    "basementsize": 0,
+    "lotsize": 560,
+    "netto": 5690,
+    "postalcode": 4000,
+    "adress1": "Norensvejen 23",
+    "adress2": "Vindinge",
+    "description": "Nemt vedligeholdelsesfrit hus på lille grund i Vindinge.\n\nVil du bo hyggeligt, centralt og med kik til grønne arealer? Etplans meget velholdt murstenshus 10 min fra Roskilde centrum. Indflytningsklart - sidst renoveret i 2012. Herunder indlagt gulvvarme og nye gulve i køkken/bryggers samt nye bordplader, vask og armaturer. I 2021 renoveret bad.\n3 værelser med stor lys stue med lysindfald fra tre sider. Vestvendt terrasse med mulighed for mange hyggelige udeaftener. Grunden udgør 560 m2, hvor haven er overskueligt, let at holde og med god plads. Huset ligger i et roligt og attraktivt kvarter, for enden af en lukket vej med stiadgang til skole, institutioner og fritidsaktiviteter.",
+    "livingspace": 120,
+    "agent": {
+      "name": "Karina Thorstein",
+      "title": "Ejendomsmægler, MDMS",
+      "phone": "+45 7070 4007",
+      "email": "karina@dinmaegler.com",
+      "image": {
+        "name": "karina.jpg",
+        "size": 250.89,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026061/dinmaegler/karina_c5fc525b2a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_karina.jpg",
+            "hash": "thumbnail_karina_c5fc525b2a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 42.3,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026063/dinmaegler/thumbnail_karina_c5fc525b2a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_karina_c5fc525b2a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165425051869f2fac96e03a"
+      },
+      "id": "6163fc472d07e63c24647d0d"
+    },
+    "built": 1978,
+    "remodel": 2012,
+    "rooms": "4/3",
+    "floorplan": {
+      "name": "plantegning_c.jpg",
+      "size": 73.3,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027172/dinmaegler/plantegning_c_75eb52d996.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_c.jpg",
+          "hash": "thumbnail_plantegning_c_75eb52d996",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 388,
+          "size": 43.73,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027173/dinmaegler/thumbnail_plantegning_c_75eb52d996.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_c_75eb52d996",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 1000,
+      "height": 776,
+      "id": "616546a62e92823f5c6a576e"
+    },
+    "lat": 55.63118232029159,
+    "long": 12.135990508213872,
+    "users": [],
+    "id": "615d4f82cc7ab04508bb8997"
+  },
+  {
+    "energylabel": "D",
+    "type": "Landejendom",
+    "images": [
+      {
+        "name": "svogerslhovedg.jpg",
+        "size": 220.53,
+        "width": 1400,
+        "height": 932,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028540/dinmaegler/svogerslhovedg_d82328c1ed.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_svogerslhovedg.jpg",
+            "hash": "thumbnail_svogerslhovedg_d82328c1ed",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 44.45,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028543/dinmaegler/thumbnail_svogerslhovedg_d82328c1ed.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_svogerslhovedg_d82328c1ed",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61654bff399ec40016a96720"
+      },
+      {
+        "name": "int_gr_e3.jpg",
+        "size": 176.75,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037358/dinmaegler/int_gr_e3_a9705e3fba.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_e3.jpg",
+            "hash": "thumbnail_int_gr_e3_a9705e3fba",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 35.07,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037359/dinmaegler/thumbnail_int_gr_e3_a9705e3fba.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_e3_a9705e3fba",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e708ea2ae0016b6c4e8"
+      },
+      {
+        "name": "int_gr_e2.jpg",
+        "size": 161.23,
+        "width": 1400,
+        "height": 935,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037358/dinmaegler/int_gr_e2_98f59345c3.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_e2.jpg",
+            "hash": "thumbnail_int_gr_e2_98f59345c3",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 31.45,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037359/dinmaegler/thumbnail_int_gr_e2_98f59345c3.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_e2_98f59345c3",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e708ea2ae0016b6c4ea"
+      },
+      {
+        "name": "int_gr_e1.jpg",
+        "size": 140.64,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037356/dinmaegler/int_gr_e1_c7d4547ac8.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_e1.jpg",
+            "hash": "thumbnail_int_gr_e1_c7d4547ac8",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 29.2,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_e1_c7d4547ac8.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_e1_c7d4547ac8",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6e8ea2ae0016b6c4e5"
+      }
+    ],
+    "gross": 12890,
+    "payment": 890000,
+    "price": 7999000,
+    "city": "Roskilde",
+    "cost": 4860,
+    "basementsize": 80,
+    "lotsize": 12867,
+    "netto": 8940,
+    "postalcode": 4000,
+    "adress1": "Svogerslev Hovedgade 189",
+    "adress2": "Svogerslev",
+    "description": "Landejendom med mulighed for Hestehold. Efter 26 år har den nuværende ejer besluttet sig for at afhænde denne pragtfuldt beliggende ejendom. Der er i alt 224 m2 samt 80 m2 højloftet tør kælder. \n\nHuset indeholder i stueplan entre, badværelse, værelse, køkken, spisestue, opholdsstue samt kontor. På første sal finder I en flot opholdsstue med udsigt, et badeværelse  i forbindelse med forældresoveværelset samt  2  børneværelser.\n\nHerudover garage med plads til 2 biler, kestestald med 6 boxe og en lade/maskinhus på 350 m2.",
+    "livingspace": 224,
+    "agent": {
+      "name": "Amalie Størup Jensen",
+      "title": "Indehaver, Ejendomsmægler, MDMS",
+      "phone": "+45 7070 4001",
+      "email": "amalie@dinmaegler.com",
+      "image": {
+        "name": "amalie.jpg",
+        "size": 221.04,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026045/dinmaegler/amalie_a8ff08db06.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_amalie.jpg",
+            "hash": "thumbnail_amalie_a8ff08db06",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 40.36,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026046/dinmaegler/thumbnail_amalie_a8ff08db06.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_amalie_a8ff08db06",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165423f51869f2fac96e038"
+      },
+      "id": "6163fd142d07e63c24647d0f"
+    },
+    "built": 1960,
+    "remodel": 1988,
+    "rooms": "7/5",
+    "floorplan": {
+      "name": "plantegning_g.jpg",
+      "size": 68.89,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027240/dinmaegler/plantegning_g_319cec2274.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_g.jpg",
+          "hash": "thumbnail_plantegning_g_319cec2274",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 316,
+          "size": 48.41,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027242/dinmaegler/thumbnail_plantegning_g_319cec2274.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_g_319cec2274",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 830,
+      "height": 524,
+      "id": "616546ea2e92823f5c6a5772"
+    },
+    "lat": 55.633950249249686,
+    "long": 12.001043134581984,
+    "users": [],
+    "id": "6163f006c72bd02bb41c89d8"
+  },
+  {
+    "energylabel": "D",
+    "type": "Villa",
+    "images": [
+      {
+        "name": "orehojvej.jpg",
+        "size": 212.49,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028511/dinmaegler/orehojvej_eba0c5a11c.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_orehojvej.jpg",
+            "hash": "thumbnail_orehojvej_eba0c5a11c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 48.49,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028515/dinmaegler/thumbnail_orehojvej_eba0c5a11c.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_orehojvej_eba0c5a11c",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61654be4399ec40016a9671e"
+      },
+      {
+        "name": "int_gr_a1.jpg",
+        "size": 146.16,
+        "width": 1400,
+        "height": 935,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_a1_d1e7343e9a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_a1.jpg",
+            "hash": "thumbnail_int_gr_a1_d1e7343e9a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 29.08,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_a1_d1e7343e9a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_a1_d1e7343e9a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d7"
+      },
+      {
+        "name": "int_gr_a2.jpg",
+        "size": 122.08,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_a2_5cecca99dc.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_a2.jpg",
+            "hash": "thumbnail_int_gr_a2_5cecca99dc",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 27.48,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_a2_5cecca99dc.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_a2_5cecca99dc",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d6"
+      },
+      {
+        "name": "int_gr_a3.jpg",
+        "size": 185.04,
+        "width": 1400,
+        "height": 924,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_a3_7d66cd0df4.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_a3.jpg",
+            "hash": "thumbnail_int_gr_a3_7d66cd0df4",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 330,
+            "size": 36.31,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_a3_7d66cd0df4.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_a3_7d66cd0df4",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d8"
+      }
+    ],
+    "gross": 7895,
+    "payment": 690000,
+    "price": 5495000,
+    "city": "Lejre",
+    "cost": 4560,
+    "basementsize": 0,
+    "lotsize": 960,
+    "netto": 6325,
+    "postalcode": 4320,
+    "adress1": "Orehøjvej 489",
+    "adress2": "Gl. Lejre",
+    "description": "Smukt beliggende stråtægt landhus. Her får du 125 m2 idyllisk charme beliggende i Gl. Lejre, tæt på Ledreborg Gods og skov. \nHuset er gennemrenoveret indvendigt, men fremstår udvendigt med stråtag og velholdt murstensfacade, som harmonerer perfekt med de omkringliggende huse og stilen i den lille landsby i det hele taget. \n\nHaven er nem at holde og I får en helt fantastisk gårdhave med højbede og masser af sol og plads til, at familie og venner kan samles og nyde de hyggelige sommeraftener.\n\nVelkommen på Orehøjvej 489.",
+    "livingspace": 125,
+    "agent": {
+      "name": "Karl Havensap",
+      "title": "Ejendomsmægler, MDMS",
+      "phone": "+45 7070 4012",
+      "email": "karl@dinmaegler.com",
+      "image": {
+        "name": "karl.jpg",
+        "size": 159.66,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026081/dinmaegler/karl_2dc43cc0fe.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_karl.jpg",
+            "hash": "thumbnail_karl_2dc43cc0fe",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 45.91,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026083/dinmaegler/thumbnail_karl_2dc43cc0fe.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_karl_2dc43cc0fe",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165426451869f2fac96e03c"
+      },
+      "id": "6163fd732d07e63c24647d10"
+    },
+    "built": 1934,
+    "remodel": 2018,
+    "rooms": "4/2",
+    "floorplan": {
+      "name": "plantegning_d.jpg",
+      "size": 62.51,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027196/dinmaegler/plantegning_d_4d5bd9ea0d.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_d.jpg",
+          "hash": "thumbnail_plantegning_d_4d5bd9ea0d",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 293,
+          "size": 40.74,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027198/dinmaegler/thumbnail_plantegning_d_4d5bd9ea0d.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_d_4d5bd9ea0d",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 1000,
+      "height": 585,
+      "id": "616546bf2e92823f5c6a5770"
+    },
+    "lat": 55.619170793839174,
+    "long": 11.968039036715137,
+    "users": [],
+    "id": "6163f0f0c72bd02bb41c89d9"
+  },
+  {
+    "energylabel": "A",
+    "type": "Ejerlejlighed",
+    "images": [
+      {
+        "name": "joensuuvej.jpg",
+        "size": 200.63,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028713/dinmaegler/joensuuvej_11a538a60d.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_joensuuvej.jpg",
+            "hash": "thumbnail_joensuuvej_11a538a60d",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 53.5,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028714/dinmaegler/thumbnail_joensuuvej_11a538a60d.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_joensuuvej_11a538a60d",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61654cab399ec40016a96724"
+      },
+      {
+        "name": "int_gr_c2.jpg",
+        "size": 86.94,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_c2_e385eb4d6e.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_c2.jpg",
+            "hash": "thumbnail_int_gr_c2_e385eb4d6e",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 32.06,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_c2_e385eb4d6e.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_c2_e385eb4d6e",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6b8ea2ae0016b6c4de"
+      },
+      {
+        "name": "int_gr_c1.jpg",
+        "size": 86.17,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_c1_d5284b753b.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_c1.jpg",
+            "hash": "thumbnail_int_gr_c1_d5284b753b",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 31.64,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_c1_d5284b753b.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_c1_d5284b753b",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4db"
+      },
+      {
+        "name": "int_gr_c3.jpg",
+        "size": 123.61,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_c3_509f2b47b6.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_c3.jpg",
+            "hash": "thumbnail_int_gr_c3_509f2b47b6",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 38.51,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_c3_509f2b47b6.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_c3_509f2b47b6",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4da"
+      }
+    ],
+    "gross": 6980,
+    "payment": 350000,
+    "price": 3995000,
+    "city": "Roskilde",
+    "cost": 3640,
+    "basementsize": 0,
+    "lotsize": 0,
+    "netto": 4890,
+    "postalcode": 4000,
+    "adress1": "Joensuuvej 180 ",
+    "adress2": "Trekroner",
+    "description": "Rummelig ejerlejlighed i det attraktive Trekroner. En funktionel og lys ejerlejlighed med med udsigt til grønne arealer fra alle værelser.\nIndenfor gåafstand fra boligen har man indkøbsmuligheder, skole og mulighed for at komme ud i den skønne natur. Der er via bybus og tog nem mulighed for at komme til Roskilde centrum.\n\nLejligheden er velholdt består af to børneværelser, stort alrum og køkken. Et soveværelse er med walk-in i forbindelse hermed et lækkert badeværelse.\nEjerlejligheden har tilhørende depotrum og adgang til vaskeri, tørrerum, cykelkælder. Til lejligheden hører ligeledes en parkeringsplads i terræn. Lejligheden er klar til indflytning.\n",
+    "livingspace": 114,
+    "agent": {
+      "name": "Amalie Størup Jensen",
+      "title": "Indehaver, Ejendomsmægler, MDMS",
+      "phone": "+45 7070 4001",
+      "email": "amalie@dinmaegler.com",
+      "image": {
+        "name": "amalie.jpg",
+        "size": 221.04,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026045/dinmaegler/amalie_a8ff08db06.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_amalie.jpg",
+            "hash": "thumbnail_amalie_a8ff08db06",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 40.36,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026046/dinmaegler/thumbnail_amalie_a8ff08db06.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_amalie_a8ff08db06",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165423f51869f2fac96e038"
+      },
+      "id": "6163fd142d07e63c24647d0f"
+    },
+    "built": 2010,
+    "rooms": "4/3",
+    "floorplan": {
+      "name": "plantegning_a.jpg",
+      "size": 56.54,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027047/dinmaegler/plantegning_a_eaf9e57e12.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_a.jpg",
+          "hash": "thumbnail_plantegning_a_eaf9e57e12",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 338,
+          "size": 37.35,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027048/dinmaegler/thumbnail_plantegning_a_eaf9e57e12.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_a_eaf9e57e12",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 1000,
+      "height": 676,
+      "id": "616546292e92823f5c6a5767"
+    },
+    "lat": 55.65629545326724,
+    "long": 12.132868254032722,
+    "users": [],
+    "id": "6163f2def709bf29ac53288b"
+  },
+  {
+    "energylabel": "A",
+    "type": "Ejerlejlighed",
+    "images": [
+      {
+        "name": "nordensparkvej.jpg",
+        "size": 147.3,
+        "width": 1400,
+        "height": 1050,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028793/dinmaegler/nordensparkvej_6cb0b412e4.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_nordensparkvej.jpg",
+            "hash": "thumbnail_nordensparkvej_6cb0b412e4",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 375,
+            "size": 38.14,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634028794/dinmaegler/thumbnail_nordensparkvej_6cb0b412e4.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_nordensparkvej_6cb0b412e4",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61654cfb399ec40016a96726"
+      },
+      {
+        "name": "int_gr_g1.jpg",
+        "size": 133.13,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_g1_4c774d073c.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_g1.jpg",
+            "hash": "thumbnail_int_gr_g1_4c774d073c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 28.01,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_g1_4c774d073c.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_g1_4c774d073c",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e3"
+      },
+      {
+        "name": "int_gr_d3.jpg",
+        "size": 77.85,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037356/dinmaegler/int_gr_d3_92567dcae8.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_d3.jpg",
+            "hash": "thumbnail_int_gr_d3_92567dcae8",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 18.06,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_d3_92567dcae8.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_d3_92567dcae8",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e2"
+      },
+      {
+        "name": "int_gr_g2.jpg",
+        "size": 69.65,
+        "width": 1400,
+        "height": 935,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_g2_448314fe3a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_g2.jpg",
+            "hash": "thumbnail_int_gr_g2_448314fe3a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 16.92,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_g2_448314fe3a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_g2_448314fe3a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e0"
+      }
+    ],
+    "gross": 8960,
+    "payment": 695000,
+    "price": 6590000,
+    "city": "Roskilde",
+    "cost": 4580,
+    "netto": 6540,
+    "postalcode": 4000,
+    "adress1": "Nordens Parkvej 180",
+    "adress2": "Trekroner",
+    "description": "Rigtig flot og velholdt ejerlejlighed beliggende i Trekroner.\n\nLejligheden indeholder stue og køkken i åben forbindelse. Stuen er meget rummelig og med et godt lysindfald. Køkkenet fremstår dejligt lyst og med god skabsplads.\nFra køkkenet er der direkte adgang til et rummeligt spiseområde med plads til et stort spisebord, som er afskærmet fra stuen. Fra stuen er der adgang til et pænt soveværelse med mulighed for en dobbeltseng. Endvidere indeholder lejligheden et\npænt badeværelse med bruseniche, håndvask, toilet og plads til vaskemaskine.\nDer hører til lejligheden et fællesareal med bænke og borde, samt en fælles parkeringsplads. Derudover har lejligheden et tilhørende kælderrum.\nOplagt lejlighed til dem som ønsker at bo centralt og med nem adgang til København.\nSund ejerforening - lejlighed er yderligere oplagt til udlejning.",
+    "livingspace": 118,
+    "agent": {
+      "name": "Peter Sørensen",
+      "title": "Ejendomsmælger, MDMS",
+      "phone": "+45 7070 4012",
+      "email": "peter@dinmaegler.com",
+      "image": {
+        "name": "peter.jpg",
+        "size": 188.37,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026106/dinmaegler/peter_360fd3be30.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_peter.jpg",
+            "hash": "thumbnail_peter_360fd3be30",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 53.11,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026109/dinmaegler/thumbnail_peter_360fd3be30.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_peter_360fd3be30",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165427e51869f2fac96e03e"
+      },
+      "id": "6163fc0e2d07e63c24647d0c"
+    },
+    "built": 2016,
+    "rooms": "4/3",
+    "floorplan": {
+      "name": "plantegning_f.jpg",
+      "size": 72.8,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027137/dinmaegler/plantegning_f_1db9a8b650.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_f.jpg",
+          "hash": "thumbnail_plantegning_f_1db9a8b650",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 390,
+          "size": 49.76,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027139/dinmaegler/thumbnail_plantegning_f_1db9a8b650.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_f_1db9a8b650",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 910,
+      "height": 709,
+      "id": "616546832e92823f5c6a576c"
+    },
+    "lat": 55.655217160702485,
+    "long": 12.129950811804532,
+    "users": [],
+    "id": "6163f7cdf709bf29ac53288c"
+  },
+  {
+    "energylabel": "D",
+    "type": "Byhus",
+    "images": [
+      {
+        "name": "provstestraede.jpg",
+        "size": 275.69,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635145599/dinmaegler/provstestraede_82ba2a6ed8.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_provstestraede.jpg",
+            "hash": "thumbnail_provstestraede_82ba2a6ed8",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 68.08,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635145601/dinmaegler/thumbnail_provstestraede_82ba2a6ed8.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_provstestraede_82ba2a6ed8",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61765731b07ca20016d62ba0"
+      },
+      {
+        "name": "int_gr_a3.jpg",
+        "size": 185.04,
+        "width": 1400,
+        "height": 924,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_a3_7d66cd0df4.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_a3.jpg",
+            "hash": "thumbnail_int_gr_a3_7d66cd0df4",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 330,
+            "size": 36.31,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_a3_7d66cd0df4.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_a3_7d66cd0df4",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d8"
+      },
+      {
+        "name": "int_gr_a2.jpg",
+        "size": 122.08,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_a2_5cecca99dc.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_a2.jpg",
+            "hash": "thumbnail_int_gr_a2_5cecca99dc",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 27.48,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_a2_5cecca99dc.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_a2_5cecca99dc",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d6"
+      },
+      {
+        "name": "int_gr_a1.jpg",
+        "size": 146.16,
+        "width": 1400,
+        "height": 935,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_a1_d1e7343e9a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_a1.jpg",
+            "hash": "thumbnail_int_gr_a1_d1e7343e9a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 29.08,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_a1_d1e7343e9a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_a1_d1e7343e9a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d7"
+      }
+    ],
+    "gross": 8956,
+    "payment": 450000,
+    "price": 5299000,
+    "city": "Roskilde",
+    "cost": 5239,
+    "lotsize": 560,
+    "remodel": 2003,
+    "netto": 6587,
+    "postalcode": 4000,
+    "rooms": "4/2",
+    "adress1": "Provstestræde 4A",
+    "livingspace": 104,
+    "built": 1926,
+    "floorplan": {
+      "name": "plantegning_g.jpg",
+      "size": 68.89,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027240/dinmaegler/plantegning_g_319cec2274.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_g.jpg",
+          "hash": "thumbnail_plantegning_g_319cec2274",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 316,
+          "size": 48.41,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027242/dinmaegler/thumbnail_plantegning_g_319cec2274.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_g_319cec2274",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 830,
+      "height": 524,
+      "id": "616546ea2e92823f5c6a5772"
+    },
+    "agent": {
+      "name": "Karl Havensap",
+      "title": "Ejendomsmægler, MDMS",
+      "phone": "+45 7070 4012",
+      "email": "karl@dinmaegler.com",
+      "image": {
+        "name": "karl.jpg",
+        "size": 159.66,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026081/dinmaegler/karl_2dc43cc0fe.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_karl.jpg",
+            "hash": "thumbnail_karl_2dc43cc0fe",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 45.91,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026083/dinmaegler/thumbnail_karl_2dc43cc0fe.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_karl_2dc43cc0fe",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165426451869f2fac96e03c"
+      },
+      "id": "6163fd732d07e63c24647d10"
+    },
+    "description": "Charmerende byhus beliggende i Roskildes små gader. Lad jer ikke snyde af husets alder! Huset blev gennemrenoveret i 2003 med nyt tag, ny Isokern skorsten, nye vinduer, nye gulve og ikke mindst isolering.\n\nBadeværelse og bryggers er også renoveret i samme omgang, så der er stort set ikke noget tilbage af det oprindelige hus fra 1926.\n",
+    "lat": 55.64339629163894,
+    "long": 12.082209511612948,
+    "users": [],
+    "id": "6176575db07ca20016d62ba1"
+  },
+  {
+    "energylabel": "B",
+    "type": "Ejerlejlighed",
+    "images": [
+      {
+        "name": "kristiansminde.jpg",
+        "size": 185.88,
+        "width": 1400,
+        "height": 925,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635148053/dinmaegler/kristiansminde_749d57643b.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_kristiansminde.jpg",
+            "hash": "thumbnail_kristiansminde_749d57643b",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 330,
+            "size": 59.6,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635148055/dinmaegler/thumbnail_kristiansminde_749d57643b.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_kristiansminde_749d57643b",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61766117f7af3c0016a37a50"
+      },
+      {
+        "name": "int_gr_g3.jpg",
+        "size": 142.33,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_g3_d768bdd38a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_g3.jpg",
+            "hash": "thumbnail_int_gr_g3_d768bdd38a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 30.21,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_g3_d768bdd38a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_g3_d768bdd38a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4df"
+      },
+      {
+        "name": "int_gr_g1.jpg",
+        "size": 133.13,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_g1_4c774d073c.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_g1.jpg",
+            "hash": "thumbnail_int_gr_g1_4c774d073c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 28.01,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_g1_4c774d073c.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_g1_4c774d073c",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e3"
+      },
+      {
+        "name": "int_gr_g2.jpg",
+        "size": 69.65,
+        "width": 1400,
+        "height": 935,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_g2_448314fe3a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_g2.jpg",
+            "hash": "thumbnail_int_gr_g2_448314fe3a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 16.92,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_g2_448314fe3a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_g2_448314fe3a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e0"
+      }
+    ],
+    "gross": 4890,
+    "payment": 280000,
+    "price": 3295000,
+    "city": "Roskilde",
+    "cost": 3259,
+    "basementsize": 0,
+    "lotsize": 0,
+    "netto": 3268,
+    "postalcode": 4000,
+    "rooms": "3/2",
+    "adress1": "Kristiansminde 95, 1. tv.",
+    "livingspace": 89,
+    "built": 2002,
+    "floorplan": {
+      "name": "plantegning_a.jpg",
+      "size": 56.54,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027047/dinmaegler/plantegning_a_eaf9e57e12.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_a.jpg",
+          "hash": "thumbnail_plantegning_a_eaf9e57e12",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 338,
+          "size": 37.35,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027048/dinmaegler/thumbnail_plantegning_a_eaf9e57e12.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_a_eaf9e57e12",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 1000,
+      "height": 676,
+      "id": "616546292e92823f5c6a5767"
+    },
+    "description": "I det attraktive lejlighedsbyggeri Kristiansmindeparken finder i denne lyse ejerlejlighed med udsigt over åbne marker. \n\nInden for gåafstand er der gode indkøbsmuligheder samt busforbindelser til både station og indkøbscenter (Ros Torv), ligesom flere daginstitutioner er placeret i området. \n\nFra altanen er der et smukt vue ud over de åbne arealer som ligger bag ved lejligheden, og mod nordvest kigges ud over Roskilde Golfklubs baner. \n\n",
+    "lat": 55.64000964239058,
+    "long": 12.04271156131207,
+    "agent": {
+      "name": "Karl Havensap",
+      "title": "Ejendomsmægler, MDMS",
+      "phone": "+45 7070 4012",
+      "email": "karl@dinmaegler.com",
+      "image": {
+        "name": "karl.jpg",
+        "size": 159.66,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026081/dinmaegler/karl_2dc43cc0fe.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_karl.jpg",
+            "hash": "thumbnail_karl_2dc43cc0fe",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 45.91,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026083/dinmaegler/thumbnail_karl_2dc43cc0fe.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_karl_2dc43cc0fe",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165426451869f2fac96e03c"
+      },
+      "id": "6163fd732d07e63c24647d10"
+    },
+    "users": [],
+    "id": "61766138f7af3c0016a37a51"
+  },
+  {
+    "energylabel": "D",
+    "type": "Byhus",
+    "images": [
+      {
+        "name": "sanktolsstraede.jpg",
+        "size": 169.57,
+        "width": 1400,
+        "height": 934,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635148764/dinmaegler/sanktolsstraede_fe67644db6.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_sanktolsstraede.jpg",
+            "hash": "thumbnail_sanktolsstraede_fe67644db6",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 48.72,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635148766/dinmaegler/thumbnail_sanktolsstraede_fe67644db6.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_sanktolsstraede_fe67644db6",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "617663def7af3c0016a37a57"
+      },
+      {
+        "name": "int_gr_e3.jpg",
+        "size": 176.75,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037358/dinmaegler/int_gr_e3_a9705e3fba.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_e3.jpg",
+            "hash": "thumbnail_int_gr_e3_a9705e3fba",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 35.07,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037359/dinmaegler/thumbnail_int_gr_e3_a9705e3fba.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_e3_a9705e3fba",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e708ea2ae0016b6c4e8"
+      },
+      {
+        "name": "int_gr_e2.jpg",
+        "size": 161.23,
+        "width": 1400,
+        "height": 935,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037358/dinmaegler/int_gr_e2_98f59345c3.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_e2.jpg",
+            "hash": "thumbnail_int_gr_e2_98f59345c3",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 31.45,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037359/dinmaegler/thumbnail_int_gr_e2_98f59345c3.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_e2_98f59345c3",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e708ea2ae0016b6c4ea"
+      },
+      {
+        "name": "int_gr_e1.jpg",
+        "size": 140.64,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037356/dinmaegler/int_gr_e1_c7d4547ac8.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_e1.jpg",
+            "hash": "thumbnail_int_gr_e1_c7d4547ac8",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 29.2,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_e1_c7d4547ac8.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_e1_c7d4547ac8",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6e8ea2ae0016b6c4e5"
+      }
+    ],
+    "gross": 4360,
+    "payment": 345000,
+    "price": 3295000,
+    "city": "Roskilde",
+    "cost": 3980,
+    "basementsize": 0,
+    "lotsize": 490,
+    "remodel": 1999,
+    "netto": 3650,
+    "postalcode": 4000,
+    "rooms": "3/2",
+    "adress1": "Sankt Ols Stræde 27",
+    "livingspace": 98,
+    "built": 1936,
+    "floorplan": {
+      "name": "plantegning_f.jpg",
+      "size": 72.8,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027137/dinmaegler/plantegning_f_1db9a8b650.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_f.jpg",
+          "hash": "thumbnail_plantegning_f_1db9a8b650",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 390,
+          "size": 49.76,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027139/dinmaegler/thumbnail_plantegning_f_1db9a8b650.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_f_1db9a8b650",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 910,
+      "height": 709,
+      "id": "616546832e92823f5c6a576c"
+    },
+    "description": "Fantastisk beliggende byhus i hjertet af Roskilde. Her tilbydes I et sublimt og totalt istandsat byhus, i 2 plan, med private terrasse og lille have. \n\nHuset indeholder soveværelse m Walk-in og eget badeværelse, her udover et ekstra soveværelse - samt et mindre toilet uden bad. Køkken fra Hanstholm med hvidevarer fra Miele. Stue på 1.salen - en sjælden mulighed, som ikke kommer igen. Her er miljø, trivsel og livskvalitet.",
+    "lat": 55.642162019646314,
+    "long": 12.084818794927738,
+    "agent": {
+      "name": "Sebastian Kryger",
+      "title": "Salgstrainee",
+      "phone": "+45 7070 4021",
+      "email": "sebastian@dinmaegler.com",
+      "image": {
+        "name": "sebastian.jpg",
+        "size": 230.08,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026129/dinmaegler/sebastian_eb4419a8bb.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_sebastian.jpg",
+            "hash": "thumbnail_sebastian_eb4419a8bb",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 48.53,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026131/dinmaegler/thumbnail_sebastian_eb4419a8bb.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_sebastian_eb4419a8bb",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165429351869f2fac96e040"
+      },
+      "id": "6163fdcf2d07e63c24647d11"
+    },
+    "users": [],
+    "id": "6176640bf7af3c0016a37a58"
+  },
+  {
+    "energylabel": "C",
+    "type": "Ejerlejlighed",
+    "images": [
+      {
+        "name": "ejboparken.jpg",
+        "size": 246.06,
+        "width": 1400,
+        "height": 934,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635149223/dinmaegler/ejboparken_1ba6ec65ea.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_ejboparken.jpg",
+            "hash": "thumbnail_ejboparken_1ba6ec65ea",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 68.07,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635149224/dinmaegler/thumbnail_ejboparken_1ba6ec65ea.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_ejboparken_1ba6ec65ea",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "617665a9f7af3c0016a37a5f"
+      },
+      {
+        "name": "int_gr_d2.jpg",
+        "size": 201.81,
+        "width": 1400,
+        "height": 923,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_d2_66b7402fa4.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_d2.jpg",
+            "hash": "thumbnail_int_gr_d2_66b7402fa4",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 330,
+            "size": 36.9,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_d2_66b7402fa4.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_d2_66b7402fa4",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e4"
+      },
+      {
+        "name": "int_gr_d1.jpg",
+        "size": 88.73,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_d1_d4bcfb6f85.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_d1.jpg",
+            "hash": "thumbnail_int_gr_d1_d4bcfb6f85",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 29.93,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_d1_d4bcfb6f85.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_d1_d4bcfb6f85",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e1"
+      },
+      {
+        "name": "int_gr_d3.jpg",
+        "size": 77.85,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037356/dinmaegler/int_gr_d3_92567dcae8.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_d3.jpg",
+            "hash": "thumbnail_int_gr_d3_92567dcae8",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 18.06,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_d3_92567dcae8.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_d3_92567dcae8",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e2"
+      }
+    ],
+    "gross": 4230,
+    "payment": 245000,
+    "price": 1870000,
+    "city": "Roskilde",
+    "cost": 3645,
+    "remodel": 2010,
+    "netto": 3620,
+    "postalcode": 4000,
+    "rooms": "3/2",
+    "adress1": "Ejboparken 112, 2. tv.",
+    "livingspace": 78,
+    "built": 1967,
+    "floorplan": {
+      "name": "plantegning_f.jpg",
+      "size": 72.8,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027137/dinmaegler/plantegning_f_1db9a8b650.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_f.jpg",
+          "hash": "thumbnail_plantegning_f_1db9a8b650",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 390,
+          "size": 49.76,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027139/dinmaegler/thumbnail_plantegning_f_1db9a8b650.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_f_1db9a8b650",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 910,
+      "height": 709,
+      "id": "616546832e92823f5c6a576c"
+    },
+    "description": "I det velbeliggende Ejboparken udbydes denne lejlighed til salg. \n\nLejligheden indeholder et soveværelse, samt et mindre børneværelse/kontor, og fremstår i velholdt stand. \n\nNår man træder ind ad døren, bydes man velkommen i den rummelige entre, hvorfra der er adgang til alle lejlighedens øvrige rum. \n\nKøkkenet, som blev renoveret i 2010, er udført i en moderne, tidløs stil med keramisk kogeplade og frithængende emhætte. \n\nEndvidere indholder lejligheden badeværelse med separat bruseniche, renoveret med samme elementer som i køkkenet.",
+    "lat": 55.6292075498165,
+    "long": 12.064081083096521,
+    "agent": {
+      "name": "Sebastian Kryger",
+      "title": "Salgstrainee",
+      "phone": "+45 7070 4021",
+      "email": "sebastian@dinmaegler.com",
+      "image": {
+        "name": "sebastian.jpg",
+        "size": 230.08,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026129/dinmaegler/sebastian_eb4419a8bb.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_sebastian.jpg",
+            "hash": "thumbnail_sebastian_eb4419a8bb",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 48.53,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026131/dinmaegler/thumbnail_sebastian_eb4419a8bb.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_sebastian_eb4419a8bb",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165429351869f2fac96e040"
+      },
+      "id": "6163fdcf2d07e63c24647d11"
+    },
+    "users": [],
+    "id": "617665b5f7af3c0016a37a60"
+  },
+  {
+    "energylabel": "B",
+    "type": "Villa",
+    "images": [
+      {
+        "name": "solsortevej.jpg",
+        "size": 242.65,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635149803/dinmaegler/solsortevej_3796041544.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_solsortevej.jpg",
+            "hash": "thumbnail_solsortevej_3796041544",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 47.22,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635149805/dinmaegler/thumbnail_solsortevej_3796041544.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_solsortevej_3796041544",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "617667edf7af3c0016a37a67"
+      },
+      {
+        "name": "int_gr_c1.jpg",
+        "size": 86.17,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_c1_d5284b753b.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_c1.jpg",
+            "hash": "thumbnail_int_gr_c1_d5284b753b",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 31.64,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_c1_d5284b753b.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_c1_d5284b753b",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4db"
+      },
+      {
+        "name": "int_gr_c2.jpg",
+        "size": 86.94,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_c2_e385eb4d6e.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_c2.jpg",
+            "hash": "thumbnail_int_gr_c2_e385eb4d6e",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 32.06,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_c2_e385eb4d6e.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_c2_e385eb4d6e",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6b8ea2ae0016b6c4de"
+      },
+      {
+        "name": "int_gr_c3.jpg",
+        "size": 123.61,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_c3_509f2b47b6.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_c3.jpg",
+            "hash": "thumbnail_int_gr_c3_509f2b47b6",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 38.51,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_c3_509f2b47b6.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_c3_509f2b47b6",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4da"
+      }
+    ],
+    "gross": 6389,
+    "payment": 425000,
+    "price": 5595000,
+    "city": "Roskilde",
+    "cost": 5325,
+    "basementsize": 118,
+    "lotsize": 1250,
+    "remodel": 2015,
+    "netto": 4825,
+    "postalcode": 4000,
+    "rooms": "6/5",
+    "adress1": "Solsortevej 56",
+    "livingspace": 205,
+    "built": 1965,
+    "floorplan": {
+      "name": "plantegning_c.jpg",
+      "size": 73.3,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027172/dinmaegler/plantegning_c_75eb52d996.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_c.jpg",
+          "hash": "thumbnail_plantegning_c_75eb52d996",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 388,
+          "size": 43.73,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027173/dinmaegler/thumbnail_plantegning_c_75eb52d996.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_c_75eb52d996",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 1000,
+      "height": 776,
+      "id": "616546a62e92823f5c6a576e"
+    },
+    "description": "Stor villa med plads til børnefamilien, lige ved siden af en af Roskildes mest attraktive skoler. \n\nDen store stue er husets hjerte. Der er loft til kip og et flot vinduesparti, hvilket giver et unikt lysindfald selv på overskyede dage. Ydermere er der en velfungerende brændeovn og en dobbelt terrassedør ud til haven. Fra stuen er der franske døre ind til køkkenalrummet og der er herfra ligeledes udgang til udendørsarealerne via en terrassedør. Køkkenet er af ældre dato, men pænt og velfungerende. ",
+    "lat": 55.64570991831084,
+    "long": 12.101601728895488,
+    "agent": {
+      "name": "Amalie Størup Jensen",
+      "title": "Indehaver, Ejendomsmægler, MDMS",
+      "phone": "+45 7070 4001",
+      "email": "amalie@dinmaegler.com",
+      "image": {
+        "name": "amalie.jpg",
+        "size": 221.04,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026045/dinmaegler/amalie_a8ff08db06.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_amalie.jpg",
+            "hash": "thumbnail_amalie_a8ff08db06",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 40.36,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026046/dinmaegler/thumbnail_amalie_a8ff08db06.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_amalie_a8ff08db06",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165423f51869f2fac96e038"
+      },
+      "id": "6163fd142d07e63c24647d0f"
+    },
+    "users": [],
+    "id": "61766804f7af3c0016a37a68"
+  },
+  {
+    "energylabel": "B",
+    "type": "Ejerlejlighed",
+    "images": [
+      {
+        "name": "kongebakken.jpg",
+        "size": 166.13,
+        "width": 1400,
+        "height": 935,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635150265/dinmaegler/kongebakken_7d3e3291cf.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_kongebakken.jpg",
+            "hash": "thumbnail_kongebakken_7d3e3291cf",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 45.51,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635150267/dinmaegler/thumbnail_kongebakken_7d3e3291cf.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_kongebakken_7d3e3291cf",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "617669bbf7af3c0016a37a70"
+      },
+      {
+        "name": "int_gr_g1.jpg",
+        "size": 133.13,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_g1_4c774d073c.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_g1.jpg",
+            "hash": "thumbnail_int_gr_g1_4c774d073c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 28.01,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_g1_4c774d073c.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_g1_4c774d073c",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e3"
+      },
+      {
+        "name": "int_gr_g2.jpg",
+        "size": 69.65,
+        "width": 1400,
+        "height": 935,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_g2_448314fe3a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_g2.jpg",
+            "hash": "thumbnail_int_gr_g2_448314fe3a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 334,
+            "size": 16.92,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_g2_448314fe3a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_g2_448314fe3a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4e0"
+      },
+      {
+        "name": "int_gr_g3.jpg",
+        "size": 142.33,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037355/dinmaegler/int_gr_g3_d768bdd38a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_g3.jpg",
+            "hash": "thumbnail_int_gr_g3_d768bdd38a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 30.21,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037357/dinmaegler/thumbnail_int_gr_g3_d768bdd38a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_g3_d768bdd38a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6d8ea2ae0016b6c4df"
+      }
+    ],
+    "gross": 4230,
+    "payment": 325000,
+    "price": 2195000,
+    "city": "Roskilde",
+    "cost": 3490,
+    "netto": 3650,
+    "postalcode": 4000,
+    "adress1": "Kongebakken 37D, 1. th.",
+    "livingspace": 92,
+    "built": 1964,
+    "remodel": 2014,
+    "rooms": "3/2",
+    "floorplan": {
+      "name": "plantegning_a.jpg",
+      "size": 56.54,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027047/dinmaegler/plantegning_a_eaf9e57e12.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_a.jpg",
+          "hash": "thumbnail_plantegning_a_eaf9e57e12",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 338,
+          "size": 37.35,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027048/dinmaegler/thumbnail_plantegning_a_eaf9e57e12.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_a_eaf9e57e12",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 1000,
+      "height": 676,
+      "id": "616546292e92823f5c6a5767"
+    },
+    "description": "Lyse og rummelig lejlighed på hele 92 kvadratmeter, som har en attraktiv beliggenhed i  centralt i Roskilde. Lejligheden fremtræder pæn og regulær, klassisk og stilren, og mulighederne for indretning er mange.\n\nKøkkenet ligger i åben forbindelse med stuen, og givergod mulighed for at indrette både en dejlig spiseplads og en hyggelig sofa stue. \n\nLejligheden byder herudover på to soveværelser, et walk in closet i forbindelse med entreen samt et badeværelse med separat bruseniche.",
+    "lat": 55.64953732289786,
+    "long": 12.094338110641266,
+    "agent": {
+      "name": "Vigga Olivia Byzen",
+      "title": "Salgstrainee",
+      "phone": "+45 7070 4019",
+      "email": "vigga@dinmaegler.com",
+      "image": {
+        "name": "vigga.jpg",
+        "size": 255.71,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026148/dinmaegler/vigga_1794394011.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_vigga.jpg",
+            "hash": "thumbnail_vigga_1794394011",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 55.85,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026150/dinmaegler/thumbnail_vigga_1794394011.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_vigga_1794394011",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "616542a751869f2fac96e042"
+      },
+      "id": "6163fcb52d07e63c24647d0e"
+    },
+    "users": [],
+    "id": "617669cff7af3c0016a37a71"
+  },
+  {
+    "energylabel": "C",
+    "type": "Ejerlejlighed",
+    "images": [
+      {
+        "name": "palaestraede.jpg",
+        "size": 264.57,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635150862/dinmaegler/palaestraede_506d9a9536.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_palaestraede.jpg",
+            "hash": "thumbnail_palaestraede_506d9a9536",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 60.67,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635150864/dinmaegler/thumbnail_palaestraede_506d9a9536.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_palaestraede_506d9a9536",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61766c10f7af3c0016a37a77"
+      },
+      {
+        "name": "int_gr_b1.jpg",
+        "size": 92.41,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_b1_ec4052e4a9.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b1.jpg",
+            "hash": "thumbnail_int_gr_b1_ec4052e4a9",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 30.72,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b1_ec4052e4a9.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b1_ec4052e4a9",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6b8ea2ae0016b6c4dc"
+      },
+      {
+        "name": "int_gr_b2.jpg",
+        "size": 100.86,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_b2_2c8853508c.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b2.jpg",
+            "hash": "thumbnail_int_gr_b2_2c8853508c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 22.88,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b2_2c8853508c.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b2_2c8853508c",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d9"
+      },
+      {
+        "name": "int_gr_b3.jpg",
+        "size": 112.65,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_b3_4bdac29737.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b3.jpg",
+            "hash": "thumbnail_int_gr_b3_4bdac29737",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 25.17,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b3_4bdac29737.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b3_4bdac29737",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6b8ea2ae0016b6c4dd"
+      }
+    ],
+    "gross": 10390,
+    "payment": 860000,
+    "price": 7560000,
+    "city": "Roskilde",
+    "cost": 5930,
+    "basementsize": 0,
+    "lotsize": 0,
+    "remodel": 2018,
+    "netto": 8640,
+    "postalcode": 4000,
+    "rooms": "8/6",
+    "adress1": "Palæstræde 45",
+    "adress2": "",
+    "livingspace": 195,
+    "built": 1904,
+    "floorplan": {
+      "name": "plantegning_f.jpg",
+      "size": 72.8,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027137/dinmaegler/plantegning_f_1db9a8b650.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_f.jpg",
+          "hash": "thumbnail_plantegning_f_1db9a8b650",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 390,
+          "size": 49.76,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027139/dinmaegler/thumbnail_plantegning_f_1db9a8b650.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_f_1db9a8b650",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 910,
+      "height": 709,
+      "id": "616546832e92823f5c6a576c"
+    },
+    "description": "På byens nok mest centralt beliggende og attarktive adresse, finder I denne sjældend udbudte perle. Hvis du har et ønske om at komme til at bo i centrum af Roskilde, er denne unikke liebhaverlejlighed det oplagte valg. \n\nLejligheden byder på hele tre stuer en suite, hvor der nemt kan indrettes et kontor eller gæsteværelse i den bageste stue. Her ud over findes fem soveværelser som er godt fordelt, med to værelser beliggende ved entreen, samt tre værelser i den anden ende af lejligheden i forbindelse med køkken og badeværelse. \n\nLejligheden fremstår indflytningsklar og er sælsomt renoveret for tre år siden med snedkerkøkken og eksklusive hvidevarer. ",
+    "lat": 55.64173890680128,
+    "long": 12.080748163839317,
+    "agent": {
+      "name": "Karina Thorstein",
+      "title": "Ejendomsmægler, MDMS",
+      "phone": "+45 7070 4007",
+      "email": "karina@dinmaegler.com",
+      "image": {
+        "name": "karina.jpg",
+        "size": 250.89,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026061/dinmaegler/karina_c5fc525b2a.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_karina.jpg",
+            "hash": "thumbnail_karina_c5fc525b2a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 42.3,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026063/dinmaegler/thumbnail_karina_c5fc525b2a.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_karina_c5fc525b2a",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "6165425051869f2fac96e03a"
+      },
+      "id": "6163fc472d07e63c24647d0d"
+    },
+    "users": [],
+    "id": "61766c4cf7af3c0016a37a78"
+  },
+  {
+    "energylabel": "A",
+    "type": "Ejerlejlighed",
+    "images": [
+      {
+        "name": "skydebanevej.jpg",
+        "size": 72.04,
+        "width": 1400,
+        "height": 932,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635151522/dinmaegler/skydebanevej_fbda84ccaa.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_skydebanevej.jpg",
+            "hash": "thumbnail_skydebanevej_fbda84ccaa",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 27.94,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1635151523/dinmaegler/thumbnail_skydebanevej_fbda84ccaa.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_skydebanevej_fbda84ccaa",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61766ea4f7af3c0016a37a7e"
+      },
+      {
+        "name": "int_gr_b1.jpg",
+        "size": 92.41,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_b1_ec4052e4a9.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b1.jpg",
+            "hash": "thumbnail_int_gr_b1_ec4052e4a9",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 30.72,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b1_ec4052e4a9.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b1_ec4052e4a9",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6b8ea2ae0016b6c4dc"
+      },
+      {
+        "name": "int_gr_b2.jpg",
+        "size": 100.86,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037352/dinmaegler/int_gr_b2_2c8853508c.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b2.jpg",
+            "hash": "thumbnail_int_gr_b2_2c8853508c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 22.88,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b2_2c8853508c.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b2_2c8853508c",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6a8ea2ae0016b6c4d9"
+      },
+      {
+        "name": "int_gr_b3.jpg",
+        "size": 112.65,
+        "width": 1400,
+        "height": 933,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037353/dinmaegler/int_gr_b3_4bdac29737.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_int_gr_b3.jpg",
+            "hash": "thumbnail_int_gr_b3_4bdac29737",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 25.17,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634037354/dinmaegler/thumbnail_int_gr_b3_4bdac29737.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_int_gr_b3_4bdac29737",
+              "resource_type": "image"
+            }
+          }
+        },
+        "id": "61656e6b8ea2ae0016b6c4dd"
+      }
+    ],
+    "gross": 9420,
+    "payment": 650000,
+    "price": 6295000,
+    "city": "Roskilde",
+    "cost": 5385,
+    "netto": 7650,
+    "postalcode": 4000,
+    "rooms": "4/3",
+    "adress1": "Skydebanevej 85A, 4",
+    "adress2": "Veddelev",
+    "description": "Fantastisk beliggende penthouselejlighed på havnen i Veddelev.\n\nDirekte på havnen ligger denne 4 værelses lejlighed, med stor lys stue med lysindfald fra tre sider. Vestvendt overdækket tagterrasse med mulighed for mange hyggelige udeaftener. \n\nI kommer praktisk talt til at bo på havnen, og denne beliggenhed giver rig muliged for at have en båd i havnen og dermed bruge lejligheden som base, når man ikke er ud at sejle.",
+    "livingspace": 124,
+    "built": 2016,
+    "floorplan": {
+      "name": "plantegning_f.jpg",
+      "size": 72.8,
+      "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027137/dinmaegler/plantegning_f_1db9a8b650.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_plantegning_f.jpg",
+          "hash": "thumbnail_plantegning_f_1db9a8b650",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 390,
+          "size": 49.76,
+          "path": null,
+          "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634027139/dinmaegler/thumbnail_plantegning_f_1db9a8b650.jpg",
+          "provider_metadata": {
+            "public_id": "dinmaegler/thumbnail_plantegning_f_1db9a8b650",
+            "resource_type": "image"
+          }
+        }
+      },
+      "width": 910,
+      "height": 709,
+      "id": "616546832e92823f5c6a576c"
+    },
+    "lat": 55.68152423288204,
+    "long": 12.074872810107033,
+    "agent": {
+      "name": "Vigga Olivia Byzen",
+      "title": "Salgstrainee",
+      "phone": "+45 7070 4019",
+      "email": "vigga@dinmaegler.com",
+      "image": {
+        "name": "vigga.jpg",
+        "size": 255.71,
+        "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026148/dinmaegler/vigga_1794394011.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_vigga.jpg",
+            "hash": "thumbnail_vigga_1794394011",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 333,
+            "size": 55.85,
+            "path": null,
+            "url": "https://res.cloudinary.com/dinmaegler/image/upload/v1634026150/dinmaegler/thumbnail_vigga_1794394011.jpg",
+            "provider_metadata": {
+              "public_id": "dinmaegler/thumbnail_vigga_1794394011",
+              "resource_type": "image"
+            }
+          }
+        },
+        "width": 800,
+        "height": 533,
+        "id": "616542a751869f2fac96e042"
+      },
+      "id": "6163fcb52d07e63c24647d0e"
+    },
+    "users": [],
+    "id": "61766eb7f7af3c0016a37a7f"
+  }
+]
