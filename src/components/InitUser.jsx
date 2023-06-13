@@ -1,10 +1,6 @@
 import {useContext, useEffect} from 'react'
 import {UserContext} from '../App'
 
-async function getUser () {
-    
-}
-
 const InitUser = () => {
     const user = useContext(UserContext).user;
      const {setUser} = useContext(UserContext)

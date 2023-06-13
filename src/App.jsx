@@ -14,6 +14,8 @@ import Contact from "./pages/Contact";
 import Favorites from "./pages/Favorites";
 import PropertyList from "./pages/PropertyList";
 import PropertyDetails from "./pages/PropertyDetails";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
 import ErrorPage from "./pages/ErrorPage";
 import Gallery from "./pages/Gallery";
 import Floorplan from "./pages/Floorplan";
@@ -54,6 +56,8 @@ function App() {
           <Route path="floorplan" element={<Floorplan />} />
           <Route path="map" element={<Map />} />
         </Route>
+        <Route path="login" element={<Login/>}/>
+        <Route path="register" element={<Register/>}/>
         <Route path="*" element={<ErrorPage />} />
       </>
     )
@@ -63,7 +67,7 @@ function App() {
     <>
     <ThemeProvider theme={theme}>
       <UserContext.Provider value={{ user, setUser, homesCount, favList, setFavList }}>
-      <InitUser/>
+      {/* <InitUser/> */}
       <Header />
         <RouterProvider router={router} />
         <Footer />
